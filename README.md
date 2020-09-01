@@ -10,7 +10,7 @@ I'm currently working as an apprentice developer at [mychauffage.com](https://ww
 I've also done internships at [SEGULA Technologies](https://www.segulatechnologies.com/en/) and French healthcare agency of Le Havre (CPAM). \
 During my studies, I've developed many projects using various technologies.
 
-Here is the languages and frameworks i've been working with :
+Here is the languages and frameworks i'm used to work with:
 * **OOP:** C#, Java, Python, C++, PHP
 * **Backend:** .NET Core, Symfony, NodeJS
 * **Frontend:** Javascript and Typescript (NodeJS, React, Angular)
