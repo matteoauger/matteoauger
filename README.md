@@ -13,7 +13,7 @@ During my studies, I've developed many projects using various technologies.
 Here is the languages and frameworks i'm used to work with:
 * **OOP:** C#, Java, Python, C++, PHP
 * **Backend:** .NET Core, Symfony, NodeJS
-* **Frontend:** Javascript and Typescript (NodeJS, React, Angular)
+* **Frontend:** Javascript and Typescript (React, Angular)
 * **Systems:** Assembly, C
 * **Database:** PostgreSQL, ElasticSearch, MongoDB, Redis
 * **Other:** XML / HTML / CSS / GraphQL
