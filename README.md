@@ -6,10 +6,7 @@ My name is Matteo. I'm currently IT engineering ([IWOCS](https://www.univ-lehavr
 
 ### Experience :mortar_board:
 
-I'm currently working as a developer at [Sixmon](https://www.sixmon.net). \
-I've also done internships at [SEGULA Technologies](https://www.segulatechnologies.com/en/) and French healthcare agency of Le Havre (CPAM). \
-During my studies, I've developed many projects using various technologies.
-
+I'm currently working as a developer. \
 Here is the languages and frameworks i'm used to work with:
 * **OOP:** C#, Java, Python, C++, PHP
 * **Backend:** .NET Core, Symfony, NodeJS
