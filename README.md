@@ -6,7 +6,7 @@ My name is Matteo. I'm currently IT engineering ([IWOCS](https://www.univ-lehavr
 
 ### Experience :mortar_board:
 
-I'm currently working as a developer. \
+I currently work as a developer. \
 Here is the languages and frameworks i'm used to work with:
 * **OOP:** C#, Java, Python, C++, PHP
 * **Backend:** .NET Core, Symfony, NodeJS
