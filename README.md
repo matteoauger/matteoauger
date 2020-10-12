@@ -1,5 +1,4 @@
 ### Hello there 👋
- [![Linkedin Badge](https://img.shields.io/badge/-Matteo_AUGER-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matt%C3%A9o-auger-52148b160/)](https://www.linkedin.com/in/matt%C3%A9o-auger-52148b160/) 
  [![Gmail Badge](https://img.shields.io/badge/-augermtt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:augermtt@gmail.com)](mailto:augermtt@gmail.com)
  
 My name is Matteo. I'm currently IT engineering ([IWOCS](https://www.univ-lehavre.fr/spip.php?formation22)) student at the University of Le Havre (Normandy, France).
