@@ -18,7 +18,6 @@ Here is the languages and frameworks i'm used to work with:
 ### Currently learning :brain:
 * Rust :crab:
 * Go :mouse:
-* Dart / Flutter :dart:
 
 ### What I like :heart:
 * Programming
