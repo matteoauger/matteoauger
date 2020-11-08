@@ -6,7 +6,7 @@ Feel free to check out my [projects](#projects)
 
 ### Technologies :mortar_board:
 
-Here is the languages and frameworks i'm used to work with:
+Here are the languages and frameworks i'm used to work with:
 * **OOP:** C#, Java, Python, C++, PHP
 * **Backend:** .NET Core, Symfony, NodeJS
 * **Frontend:** Javascript and Typescript (React, Angular)
