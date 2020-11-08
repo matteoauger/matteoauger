@@ -27,7 +27,7 @@ Here is the languages and frameworks i'm used to work with:
 * Aviation
 * Video games
 
-### My projects
+### Projects
 
 #### Professional projects
 
