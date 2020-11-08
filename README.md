@@ -27,13 +27,13 @@ Here is the languages and frameworks i'm used to work with:
 * Aviation
 * Video games
 
-### Projects
+## Projects
 
-#### Professional projects
+### Professional projects
 
 - [Mychauffage.com](https://www.mychauffage.com/)
 
-#### School projects 
+### School projects 
 
 - [Sun trackerino](https://github.com/matteoauger/sun-trackerino), an arduino software made for solar tracking. (C / JS)
 - [Genetic Queens](https://github.com/matteoauger/genetic-queens), showcase of n-queens solving using multiple methods such as genetic algorithm. (Go)
