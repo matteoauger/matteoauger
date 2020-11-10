@@ -9,7 +9,7 @@
 ### School projects 
 
 - [Sun trackerino](https://github.com/matteoauger/sun-trackerino), an arduino software made for solar tracking. (C / JS)
-- [Genetic Queens](https://github.com/matteoauger/genetic-queens), showcase of n-queens solving using multiple methods such as genetic algorithm. (Go)
+- [Genetic Queens](https://github.com/matteoauger/genetic-queens), showcase of n-queens solution using multiple methods such as genetic algorithm. (Go)
 - [Imhotep](https://github.com/matteoauger/imhotep), real estate website (JS)
 - [Imhotep GraphQL API](https://github.com/matteoauger/imhotep-graphql-api), *GraphQL* API made for real estate management. (JS / GraphQL)
 - [Hash'n'go](https://github.com/matteoauger/hash-n-go), cracking tool using distributed instances via *Docker swarm* (Go)
