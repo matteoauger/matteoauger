@@ -1,5 +1,5 @@
 # Hello, I'm Matteo Auger 👋
-### Fullstack developer, tech enjoyer & aviation enthusiast
+### Fullstack developer, tech addict & aviation enthusiast
 ## Projects
 
 ### Professional projects
