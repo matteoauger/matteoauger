@@ -1,32 +1,5 @@
-## Hello there 👋
- [![Gmail Badge](https://img.shields.io/badge/-augermtt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:augermtt@gmail.com)](mailto:augermtt@gmail.com)
- 
-My name is Matteo, welcome to my Github page. I am a fullstack developer at SIXMON. \
-Feel free to check out my [projects](#projects)
-
-### Technologies :mortar_board:
-
-Here are the languages and frameworks i'm used to work with:
-* **OOP:** C#, Java, Python, C++, PHP
-* **Backend:** .NET Core, Symfony, NodeJS
-* **Frontend:** Javascript and Typescript (React, Angular)
-* **Systems:**  C
-* **Database:** PostgreSQL, ElasticSearch, MongoDB, Redis
-* **Other:** XML / HTML / CSS / GraphQL
-
-### Currently learning :brain:
-
-* Rust :crab:
-* Go :mouse:
-
-### What I like :heart:
-
-* Programming
-* Open source
-* Learning new things
-* Aviation
-* Video games
-
+# Hello, I'm Matteo Auger 👋
+### Fullstack developer, tech enjoyer & aviation enthusiast
 ## Projects
 
 ### Professional projects
@@ -41,3 +14,27 @@ Here are the languages and frameworks i'm used to work with:
 - [Imhotep GraphQL API](https://github.com/matteoauger/imhotep-graphql-api), *GraphQL* API made for real estate management. (JS / GraphQL)
 - [Hash'n'go](https://github.com/matteoauger/hash-n-go), cracking tool using distributed instances via *Docker swarm* (Go)
 
+## Technologies :computer:
+
+Here are the languages and frameworks i'm used to work with:
+* **OOP:** C#, Java, Python, C++, PHP
+* **Backend:** .NET Core, Symfony, NodeJS
+* **Frontend:** Javascript and Typescript (React, Angular)
+* **Systems:**  C
+* **Database:** PostgreSQL, ElasticSearch, MongoDB, Redis
+* **Other:** XML / HTML / CSS / GraphQL
+
+### Currently learning :brain:
+
+:crab: Rust \
+:mouse: Go 
+
+## What I :heart:
+:computer: Programming \
+:octocat: Open source \
+:video_game: Video games \
+:airplane: Aviation (Student glider pilot) \
+:dart: Archery
+
+## Contact :mail:
+ [![Gmail Badge](https://img.shields.io/badge/-augermtt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:augermtt@gmail.com)](mailto:augermtt@gmail.com)
