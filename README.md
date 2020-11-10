@@ -36,5 +36,5 @@ Here are the languages and frameworks i'm used to work with:
 :airplane: Aviation (Student glider pilot) \
 :dart: Archery
 
-## Contact :mail:
+## Contact :email:
  [![Gmail Badge](https://img.shields.io/badge/-augermtt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:augermtt@gmail.com)](mailto:augermtt@gmail.com)
