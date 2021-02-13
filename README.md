@@ -37,4 +37,4 @@ Here are the languages and frameworks i'm used to work with:
 :dart: Archery
 
 ## Contact :email:
- [![Gmail Badge](https://img.shields.io/badge/-augermtt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:augermtt@gmail.com)](mailto:matteo.auger@protonmail.com)
+ [![Gmail Badge](https://img.shields.io/badge/-matteo.auger@protonmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Email)](mailto:matteo.auger@protonmail.com)
