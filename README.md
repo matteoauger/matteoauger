@@ -32,7 +32,7 @@ Here are the languages and frameworks i'm used to work with:
 ## What I :heart:
 :computer: Programming \
 :octocat: Open source \
-:bike: Motorcycle \
+:motorcycle: Motorcycle \
 :airplane: Aviation \
 :video_game: Video games \
 
