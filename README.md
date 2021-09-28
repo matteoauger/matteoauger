@@ -4,7 +4,7 @@
 
 ### Professional projects
 
-- [Mychauffage.com](https://www.mychauffage.com/)
+- [izi-by-edf-renov.fr](https://www.izi-by-edf-renov.fr/)
 
 ### School projects 
 
@@ -32,9 +32,9 @@ Here are the languages and frameworks i'm used to work with:
 ## What I :heart:
 :computer: Programming \
 :octocat: Open source \
+:bike: Motorcycle \
+:airplane: Aviation \
 :video_game: Video games \
-:airplane: Aviation (Student glider pilot) \
-:dart: Archery
 
 ## Contact :email:
  [![Gmail Badge](https://img.shields.io/badge/-matteo.auger@protonmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Email)](mailto:matteo.auger@protonmail.com)
