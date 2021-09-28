@@ -34,7 +34,7 @@ Here are the languages and frameworks i'm used to work with:
 :octocat: Open source \
 :motorcycle: Motorcycle \
 :airplane: Aviation \
-:video_game: Video games \
+:video_game: Video games
 
 ## Contact :email:
  [![Gmail Badge](https://img.shields.io/badge/-matteo.auger@protonmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Email)](mailto:matteo.auger@protonmail.com)
