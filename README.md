@@ -1,10 +1,6 @@
-# Hello, I'm Matteo Auger 👋
+# Hello, I'm Matteo 👋
 ### Fullstack developer, tech addict & aviation enthusiast
 ## Projects
-
-### Professional projects
-
-- [izi-by-edf-renov.fr](https://www.izi-by-edf-renov.fr/)
 
 ### School projects 
 
@@ -18,8 +14,8 @@
 
 Here are the languages and frameworks i'm used to work with:
 * **OOP:** C#, Java, Python, C++, PHP
-* **Backend:** .NET Core, Symfony, NodeJS
-* **Frontend:** Javascript and Typescript (React, Angular)
+* **Back:** .NET Core, Symfony, NodeJS
+* **Front:** React, Angular
 * **Systems:**  C
 * **Database:** PostgreSQL, ElasticSearch, MongoDB, Redis
 * **Other:** XML / HTML / CSS / GraphQL
@@ -27,7 +23,6 @@ Here are the languages and frameworks i'm used to work with:
 ### Currently learning :brain:
 
 :crab: Rust \
-:mouse: Go 
 
 ## What I :heart:
 :computer: Programming \
