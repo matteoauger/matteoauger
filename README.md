@@ -1,5 +1,5 @@
-# Hello, I'm Matteo 👋
-### Fullstack developer, tech addict & aviation enthusiast
+# Hi, I'm Matteo 👋
+### Fullstack developer, tech & aviation enthusiast
 
 ## Technologies :computer:
 
